@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Megajoule
+- 👀 I’m interested in NFTs...
+- 🌱 I’m currently learning Solidity...
+- 💞️ I’m looking to collaborate on my new Jutenhoops Smart Contracts to sell my Art...
+- 📫 How to reach me, message me on my Jutenhoops Discord,or on Hard Hat discord with message "Jutenhoops"
+<!---
+Megajoule/Megajoule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
